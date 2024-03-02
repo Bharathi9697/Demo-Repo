@@ -28,6 +28,7 @@ int main() {
         printf("Difference: %.2f\n", difference);
         printf("Product: %.2f\n", product);
         printf("Quotient: %.2f\n", quotient);
+        printf("Modulo: %.2f\n", modulo);
     } else {
         printf("Error: Division by zero is undefined.\n");
     }
