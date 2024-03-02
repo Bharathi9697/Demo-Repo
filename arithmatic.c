@@ -31,6 +31,7 @@ int main() {
         printf("Modulo: %.2f\n", modulo);
     } else {
         printf("Error: Division by zero is undefined.\n");
+        printf("=============================\n");
     }
     scanf("%f", &num2);
 
